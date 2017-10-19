@@ -1,7 +1,7 @@
 {
   "name": "gulp-hyeriserver",
-  "version": "0.0.1",
-  "description": "Experimental http server based on gulp-webserver by",
+  "version": "0.0.1-alpha",
+  "description": "Experimental http server based on schickling/gulp-webserver",
   "main": "src/index.js",
   "scripts": {
     "test": "mocha"

@@ -192,7 +192,7 @@ module.exports = function(options) {
         }
       });
     }
-gutil.log('hey hyeri');
+//gutil.log('hey hyeri');
   });
 
   var webserver;
